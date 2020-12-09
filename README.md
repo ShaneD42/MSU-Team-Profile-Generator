@@ -16,9 +16,7 @@ so that I have quick access to emails and GitHub profiles
 
 
 
-Video Demo: 
-
-![Demo](https://www.youtube.com/watch?v=PXtDjBMv8Jg&feature=youtu.be "Demo")
+[Video Demo](https://youtu.be/PXtDjBMv8Jg)
 
 
 
