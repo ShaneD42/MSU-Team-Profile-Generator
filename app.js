@@ -151,7 +151,7 @@ async function run() {
 
 
 
-    let html = `< !DOCTYPE html >
+    let html = `<!DOCTYPE html>
                 <html lang="en">
 
                     <head>
