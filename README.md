@@ -14,4 +14,6 @@ I want to generate a webpage that displays my team's basic info
 so that I have quick access to emails and GitHub profiles
 
 ```
+![image](https://user-images.githubusercontent.com/69122353/101672947-7fa9cc00-3a24-11eb-8eeb-21ff6b0a8c1a.png)
 
+[Link to Demo Video](https://youtu.be/PXtDjBMv8Jg)
