@@ -18,4 +18,4 @@ so that I have quick access to emails and GitHub profiles
 
 Video Demo: 
 
-<iframe src="https://drive.google.com/file/d/1ZNlhnBvfDUCV0WZLGqglNWKUwvS9B3zQ/preview" width="640" height="480"></iframe>
+https://youtu.be/PXtDjBMv8Jg
